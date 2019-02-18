@@ -1,14 +1,1 @@
-this line is another feature on issue 2
-
-
-This is the first edit
-second line, second edit
-third line, third edit
-FOurth line, fourth edit
-
-<<<<<<< HEAD
-Line for feature
-bug is fixed on issue 2
-=======
-This line is on issue1
->>>>>>> issue1
+This is a new file
